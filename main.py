@@ -68,10 +68,10 @@ def get_uptime():
     return f"⏱️ {days}d {hours}h {minutes}m {seconds}s"
 
 # ===== BOT CONFIGURATION =====
-BOT_TOKEN = '8849118866:AAFn_GIGuUEf81rriebMchKq_okSgmKbi4Y'
+BOT_TOKEN = '8849118866:AAElBPR-KnV0xPMeIwYXki86yq_SDCaad7Y'
 OWNER_ID = 8855682217
 ADMIN_ID = 8416917212
-YOUR_USERNAME = '@DMcredit'
+YOUR_USERNAME = '@Godxpainx'
 UPDATE_CHANNEL = 'https://t.me/'
 
 # ==================== SAMBANOVA AI CONFIGURATION ====================
